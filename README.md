@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at NxtBig Software Labs<br><br>🚀 Previously worked at TIAA GBS India, ComEd Learning, Network TechLab India, Psyber Co.<br><br>🏫 Graduated as a Computer Science Engineer @Mumbai University<br><br>😎 Always open to freelance projects<br><br>👬🏽 I am looking to collaborate on projects solving real world problems<br><br>💬 I mainly worked with Java and JavaScript, but open to learn more!<br><br>📝 View my portfolio at https://darshilmehta.me/<br><br>📫 How to reach me darshilm223@gmail.com
+🔭 I’m currently working at TIAA GCS India<br><br>🚀 Previously worked at NxtBig Software Labs, ComEd Learning, Network TechLab India, Psyber Co.<br><br>🏫 Graduated as a Computer Science Engineer @Mumbai University<br><br>😎 Always open to freelance projects<br><br>👬🏽 I am looking to collaborate on projects solving real world problems<br><br>💬 I mainly worked with Java and JavaScript, but open to learn more!<br><br>📝 View my portfolio at https://darshilmehta.me/<br><br>📫 How to reach me darshilm223@gmail.com
 
 
 ## 🌐 Socials:
