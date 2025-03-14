@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at TIAA GCS India<br><br>🚀 Previously worked at NxtBig Software Labs, ComEd Learning, Network TechLab India, Psyber Co.<br><br>🏫 Graduated as a Computer Science Engineer @Mumbai University<br><br>😎 Always open to freelance projects<br><br>👬🏽 I am looking to collaborate on projects solving real world problems<br><br>💬 I mainly worked with Java and JavaScript, but open to learn more!<br><br>📝 View my portfolio at https://darshilmehta.me/<br><br>📫 How to reach me darshilm223@gmail.com
+🔭 I’m currently working at Accenture<br><br>🚀 Previously worked at NxtBig Software Labs, ComEd Learning, Network TechLab India, Psyber Co.<br><br>🏫 Graduated as a Computer Science Engineer @Mumbai University<br><br>😎 Always open to freelance projects<br><br>👬🏽 I am looking to collaborate on projects solving real world problems<br><br>💬 I mainly worked with Java and JavaScript, but open to learn more!<br><br>📝 View my portfolio at https://darshil-mehta.vercel.app/<br><br>📫 How to reach me darshilm223@gmail.com
 
 
 ## 🌐 Socials:
@@ -15,17 +15,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=darshilmehta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=darshilm223)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=darshilmehta&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=darshilmehta&icon=0&color=0)](https://visitcount.itsvg.in)
